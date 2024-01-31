@@ -1,0 +1,23 @@
+#int type data
+siam = 420
+print(type(siam))
+
+
+#floating type data
+sinha = 840.3
+print(type(sinha))
+
+#complex type data
+mahi = 420j
+print(type(mahi))
+
+#list type data
+abbu = ["apple","banana","cherry"]
+print(type(abbu))
+
+
+#str type data
+yourname = " siam "
+myname = ' sinha '
+print("your name is" + ''+ yourname)
+print("my name is"+''+ myname)
